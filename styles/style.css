@@ -60,9 +60,8 @@
 
 /* ниже текст Научиться учиться */
 .header__title {
-  position: absolute;
   margin: 0;
-  left: 64px;
+  margin-left: 64px;
   width: 730px;
   font-size: 102px;
   line-height: 92px;
@@ -139,7 +138,6 @@
 }
 
 .two-columns__paragraph:nth-child(2) {
-  position: relative;
   margin: 30px auto;
 }
 
@@ -200,7 +198,6 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  margin-top: 20px;
 }
 
 /* общий блок */
