@@ -1,0 +1,6 @@
+/* ниже общий класс к логотипам Яндекс практикум */
+.logo {
+  width: 183px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

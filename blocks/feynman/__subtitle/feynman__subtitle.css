@@ -1,0 +1,10 @@
+/* подзаголовок */
+.feynman__subtitle {
+  position: relative;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  text-align: center;
+  margin: 70px auto 0;
+  z-index: 2;
+}
