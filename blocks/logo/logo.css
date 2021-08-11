@@ -3,4 +3,10 @@
   width: 183px;
   background-repeat: no-repeat;
   background-size: contain;
+  opacity: 1;
+}
+
+.logo:hover {
+  opacity: 0.5;
+  transition: top 8s ease-out 0.9;
 }
