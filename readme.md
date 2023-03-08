@@ -1,5 +1,5 @@
 # **Практическая работа**
- * [Ссылка на проект](https://renatibragimov1987.github.io/how-to-learn/index.html.git)
+ * [Ссылка на проект](https://renatibragimov1987.github.io/how-to-learn/index.html)
 1. *Флексбоксы.*
 2. *БЭМ.*
 3. *Позиционирование.*
