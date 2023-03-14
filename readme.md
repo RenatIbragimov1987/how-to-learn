@@ -1,5 +1,6 @@
 # **Практическая работа**
 ![foto-site](https://user-images.githubusercontent.com/87523552/225083089-41aa0f7b-b98f-414d-aebb-21f45c59da75.png)
+
 [Ссылка на проект](https://renatibragimov1987.github.io/how-to-learn/index.html)
 
 1. Флексбоксы.
